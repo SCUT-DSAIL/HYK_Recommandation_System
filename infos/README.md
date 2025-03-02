@@ -10,5 +10,5 @@ adtag：hyk.zxtj
 
 # 测试数据库相关
 testing.idaoben.com:31118/hy_ihs  
-账号密码： hyihs/RBxL3i7WtY6euCyc  
+账号密码: hyihs/RBxL3i7WtY6euCyc  
 数据库: hy_ihs
